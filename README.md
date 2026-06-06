@@ -50,7 +50,7 @@ An end-to-end Power BI dashboard analyzing **1,084 pizza delivery orders** acros
 - **Run July promotions** to recover an estimated **$2,000–$3,000** in lost seasonal revenue
 - **Audit Domino's operations** — its 40% delay rate is the highest across all brands
 
-
-6. Preview:
-Home Page - (https://github.com/Shaunak2829/Pizza-Delivery-Analysis-Dashboard/blob/main/Delivery%20Performance%20page.png).
+📸 Dashboard Preview
+Home Page
+https://github.com/Shaunak2829/Pizza-Delivery-Analysis-Dashboard/blob/main/Home%20Page.png
 
