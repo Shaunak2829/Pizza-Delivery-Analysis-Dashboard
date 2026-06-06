@@ -84,3 +84,6 @@ An end-to-end Power BI dashboard analyzing **1,084 pizza delivery orders** acros
 3. **Domino's needs an operational audit** — at 40% delay rate (highest among all brands), a route or kitchen throughput review is warranted.
 4. **Run promotions in July** — with revenue hitting a $1.6K low versus a $7.4K May peak, a July campaign could recover an estimated **$2,000–$3,000 in otherwise lost revenue**.
 5. **Double down on Atlanta and Milwaukee** — the top 2 cities by revenue; targeted upsell campaigns here would yield higher ROI than equivalent spend in bottom-tier cities.
+
+6. Preview:
+Home Page - https://github.com/Shaunak2829/Pizza-Delivery-Analysis-Dashboard/blob/main/Delivery%20Performance%20page.png
