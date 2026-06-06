@@ -86,4 +86,5 @@ An end-to-end Power BI dashboard analyzing **1,084 pizza delivery orders** acros
 5. **Double down on Atlanta and Milwaukee** — the top 2 cities by revenue; targeted upsell campaigns here would yield higher ROI than equivalent spend in bottom-tier cities.
 
 6. Preview:
-Home Page - https://github.com/Shaunak2829/Pizza-Delivery-Analysis-Dashboard/blob/main/Delivery%20Performance%20page.png
+Home Page - (https://github.com/Shaunak2829/Pizza-Delivery-Analysis-Dashboard/blob/main/Delivery%20Performance%20page.png).
+
